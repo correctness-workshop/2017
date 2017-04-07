@@ -10,7 +10,7 @@ Hey there! My name is **Babji, Chetty**
 ------
 
 
-###1st International Workshop on Software Correctness for HPC Applications (Correctness 2017)
+### 1st International Workshop on Software Correctness for HPC Applications (Correctness 2017)
 
 **Abstract**
 
