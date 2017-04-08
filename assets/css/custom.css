@@ -6,6 +6,7 @@ html {
 }
 body {
   background-color: #fbfbfb;
+  font-family: "Times New Roman", Times, serif;
   /* For Fixed Nav Bar */
   padding-top: 70px;
   /* Margin bottom by footer height */
