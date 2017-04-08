@@ -13,8 +13,6 @@ comments: false
 #### Denver, Colorado, USA
 ##### In association with [The International Conference for High Performance Computing, Networking, Storage and Analysis (SC'17)](http://sc17.supercomputing.org/)
 
-[link text](#abcd)
-
 ----
 
 Ensuring correctness in high-performance computing (HPC) applications is one of the fundamental challenges that the HPC community faces today. While significant advances in verification, testing, and debugging have been made to isolate software errors (or defects) in the context of non-HPC software, several factors make achieving correctness in HPC applications and systems much more challenging than in general systems software—growing heterogeneity (architectures with CPUs, GPUs, and special purpose accelerators), massive scale computations (very high degree of concurrency), use of combined parallel programing models (e.g., MPI+X), new scalable numerical algorithms (e.g., to leverage reduced precision in floating-point arithmetic), and aggressive compiler optimizations/transformations are some of the challenges that makes correctness harder in HPC.
@@ -24,7 +22,7 @@ As the complexity of future architectures, algorithms, and applications in HPC i
 The goal of the Correntness Workshop is to bring together researchers and developers to present and discuss novel ideas to address the problem of correctness in HPC. The workshop will feature contributed papers and invited talks in this area.
 
 ----
-### Workshop Topics
+### <a name="topics">Workshop Topics</a>
 
 Topics of interest include, but are not limited to:
 
@@ -43,7 +41,7 @@ Topics of interest include, but are not limited to:
 *	Community-wide models to share past successes (e.g., bug report databases, reproducible test cases)
 
 ----
-### Format and Submissions
+### <a name="submissions"> Submissions and Format </a>
 
 Submissions are expected in the following two categories; all submissions must use the ACM format (see LINK):
 
@@ -53,12 +51,12 @@ Submissions are expected in the following two categories; all submissions must u
 Submitted papers must represent original unpublished research that is not currently under review for any other venue. Papers not following these guidelines will be rejected without review. Submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. At least one author of an accepted paper must register for and attend the workshop. Authors may contact the workshop organizers for more information. Papers should be submitted electronically at: [https://easychair.org/conferences/XXXX](https://easychair.org/conferences/XXXX).
 
 ---
-### Proceedings
+###  <a name="proceedings"> Proceedings </a>
 
 The proceedings will be archived in the ACM Digital Library and IEEE Xplore through SIGHPC.
 
 ---
-### Important Dates
+### <a name="dates"> Important Dates </a>
 
 * Paper submission due: August 18, 2017
 * Notification of acceptance: September 15, 2017
@@ -66,19 +64,19 @@ The proceedings will be archived in the ACM Digital Library and IEEE Xplore thro
 * Workshop: SC 2017, November 2017
 
 ---
-### <a name="abcd">Organizer</a>
+### <a name="org">Organizers</a>
 
 [Ignacio Laguna](https://sites.google.com/site/researchlaguna/) (LLNL) <br />
 [Cindy Rubio-González](http://web.cs.ucdavis.edu/~rubio/) (UC Davis)
 
 ---
-### Program Committee
+### <a name="pc">Program Committee</a>
 
 TBD
 
 
 ---
-### Contact Information
+###  <a name="contact">Contact Information</a>
 
 Please address workshop questions to Ignacio Laguna (ilaguna@llnl.gov) and/or Cindy Rubio-González (crubio@ucdavis.edu).
 
