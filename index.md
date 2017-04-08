@@ -9,6 +9,10 @@ comments: false
 1st International Workshop on Software Correctness for HPC Applications
 ------
 
+## November XX, 2017
+## Denver, Colorado, USA
+#### In association with [The International Conference for High Performance Computing, Networking, Storage and Analysis](http://sc17.supercomputing.org/)
+
 ### Background
 ----
 
@@ -17,6 +21,9 @@ Ensuring correctness in high-performance computing (HPC) applications is one of 
 As the complexity of future architectures, algorithms, and applications in HPC increases, the ability to fully exploit exascale systems will be limited without correctness. With the continuous use of HPC software to advance scientific and technological capabilities, novel techniques and practical tools to provide software correctness in HPC are invaluable.
 
 The goal of the workshop is to bring together researchers and developers to present and discuss novel ideas to address the problem of correctness in HPC. The workshop will feature contributed papers and invited talks in this area.
+
+
+<hr>
 
 
 ### Format and Submissions
@@ -70,6 +77,7 @@ Cindy Rubio-González (UC Davis)
 ### Program Committee
 ---
 
+TBD
 
 ### Contact Information
 ---
