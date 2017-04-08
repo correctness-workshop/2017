@@ -6,6 +6,10 @@ comments: false
 
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
+<div class="img">
+  <img src="img/picture.jpg" />
+</div>
+
 1st International Workshop on Software Correctness for HPC Applications (Correctness 2017)
 ------
 
