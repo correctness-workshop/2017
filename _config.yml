@@ -30,10 +30,12 @@ avatar: "/img/picture.jpg"
 
 # List of links in the navigation bar
 nav-links:
-  Home: ""
+  Topics: ""
   Program: ""
+  Format: ""
+  Dates: ""
   Organization: ""
-  Contact Info: ""
+  Contact: ""
 #  Travel: "travel"
 #  About Me: "aboutme"
 #  Archive: "archive"
