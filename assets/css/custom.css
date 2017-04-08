@@ -5,7 +5,7 @@ html {
   min-height: 100%;
 }
 img {
-    width:540px;
+    width: auto;
     height: auto;
 }
 body {
