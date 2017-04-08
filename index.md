@@ -16,10 +16,10 @@ The goal of the workshop is to bring together researchers and developers to pres
 
 Submissions are expected in the following two categories; all submissions must use the ACM format (see LINK):
 
-* Regular papers: maximum of 6 pages. The 6-page limit includes figures, tables and appendices, but does not include references, for which there is no page limit.
-* Short papers: position, opinion, or short experience papers; 4 pages maximum, including everything.
+* **Regular papers:** maximum of 6 pages. The 6-page limit includes figures, tables and appendices, but does not include references, for which there is no page limit.
+* **Short papers:** position, opinion, or short experience papers; 4 pages maximum, including everything.
 
-Submitted papers must represent original unpublished research that is not currently under review for any other venue. Papers not following these guidelines will be rejected without review. Submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. At least one author of an accepted paper must register for and attend the workshop. Authors may contact the workshop organizers for more information. Papers should be submitted electronically at: https://easychair.org/conferences/XXXX.
+Submitted papers must represent original unpublished research that is not currently under review for any other venue. Papers not following these guidelines will be rejected without review. Submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. At least one author of an accepted paper must register for and attend the workshop. Authors may contact the workshop organizers for more information. Papers should be submitted electronically at: [https://easychair.org/conferences/XXXX](https://easychair.org/conferences/XXXX).
 
 ### Workshop Topics
 
@@ -39,21 +39,23 @@ Topics of interest include, but are not limited to:
 *	Metrics to measure the degree of correctness of HPC applications and runtime systems
 *	Practical community-wide models to share past successes (e.g., databases for bug reports and fixes, reproducible test cases)
 
-# Proceedings
+### Proceedings
 
 The proceedings will be archived in the ACM Digital Library and IEEE Xplore through SIGHPC.
 
-## Important Dates
+### Important Dates
 
 * Paper submission due: August 18, 2017
 * Notification of acceptance: September 15, 2017
 * Camera-ready papers due (firm): October 6, 2017
 * Workshop: SC 2017, November 2017
 
-Workshop Organizers
+###Workshop Organizers
 
 Ignacio Laguna, LLNL
+
 Cindy Rubio-González, UC Davis
+
 
 Program Committee
 
