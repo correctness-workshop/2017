@@ -11,7 +11,7 @@ gems:
 #baseurl: "/projectname"
 url: ""
 enforce_ssl: ""
-baseurl: "/test2017"
+baseurl: "/2017-SC-Denver"
 
 # Title of website
 title: Correctness '17
@@ -43,7 +43,7 @@ nav-links:
 
 # If the values are empty, they are ignored 
 profile:
-#  name: Ignacio Laguna, Cindy Rubio-Gonzalez
+  name: Ignacio Laguna, Cindy Rubio-Gonzalez
 #  email: Your-Email
 #  facebook: your-fb-id
 #  github: your-github-id 
