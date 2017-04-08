@@ -13,6 +13,7 @@ comments: false
 #### Denver, Colorado, USA
 ##### In association with [The International Conference for High Performance Computing, Networking, Storage and Analysis (SC'17)](http://sc17.supercomputing.org/)
 
+[link text](#abcd)
 
 ----
 
@@ -65,7 +66,7 @@ The proceedings will be archived in the ACM Digital Library and IEEE Xplore thro
 * Workshop: SC 2017, November 2017
 
 ---
-### <h3 id="org">Organizer</h3>
+### <a name="abcd">Organizer</a>
 
 [Ignacio Laguna](https://sites.google.com/site/researchlaguna/) (LLNL) <br />
 [Cindy Rubio-González](http://web.cs.ucdavis.edu/~rubio/) (UC Davis)
