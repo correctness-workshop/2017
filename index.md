@@ -50,18 +50,14 @@ The proceedings will be archived in the ACM Digital Library and IEEE Xplore thro
 * Camera-ready papers due (firm): October 6, 2017
 * Workshop: SC 2017, November 2017
 
-###Workshop Organizers
+### Workshop Organizers
 
-Ignacio Laguna, LLNL
+Ignacio Laguna (LLNL)
 
-Cindy Rubio-González, UC Davis
+Cindy Rubio-González (UC Davis)
 
 
-Program Committee
-
-TBD
-
-Contact Information
+### Contact Information
 
 Please address workshop questions to Ignacio Laguna (ilaguna@llnl.gov) and/or Cindy Rubio-González (crubio@ucdavis.edu).
 
