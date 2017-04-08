@@ -14,7 +14,7 @@ comments: false
 ##### In association with [The International Conference for High Performance Computing, Networking, Storage and Analysis (SC'17)](http://sc17.supercomputing.org/)
 
 
-<div> <hr>
+----
 
 Ensuring correctness in high-performance computing (HPC) applications is one of the fundamental challenges that the HPC community faces today. While significant advances in verification, testing, and debugging have been made to isolate software errors (or defects) in the context of non-HPC software, several factors make achieving correctness in HPC applications and systems much more challenging than in general systems software—growing heterogeneity (architectures with CPUs, GPUs, and special purpose accelerators), massive scale computations (very high degree of concurrency), use of combined parallel programing models (e.g., MPI+X), new scalable numerical algorithms (e.g., to leverage reduced precision in floating-point arithmetic), and aggressive compiler optimizations/transformations are some of the challenges that makes correctness harder in HPC.
 
@@ -23,9 +23,8 @@ As the complexity of future architectures, algorithms, and applications in HPC i
 The goal of the workshop is to bring together researchers and developers to present and discuss novel ideas to address the problem of correctness in HPC. The workshop will feature contributed papers and invited talks in this area.
 
 
-
-### Format and Submissions
 ----
+### Format and Submissions
 
 Submissions are expected in the following two categories; all submissions must use the ACM format (see LINK):
 
@@ -53,32 +52,34 @@ Topics of interest include, but are not limited to:
 *	Metrics to measure the degree of correctness of HPC applications and runtime systems
 *	Practical community-wide models to share past successes (e.g., databases for bug reports and fixes, reproducible test cases)
 
-### Proceedings
 ---
+### Proceedings
 
 The proceedings will be archived in the ACM Digital Library and IEEE Xplore through SIGHPC.
 
-### Important Dates
 ---
+### Important Dates
+
 
 * Paper submission due: August 18, 2017
 * Notification of acceptance: September 15, 2017
 * Camera-ready papers due (firm): October 6, 2017
 * Workshop: SC 2017, November 2017
 
-### Workshop Organizers
 ---
+### Organizers
 
 Ignacio Laguna (LLNL)
 Cindy Rubio-González (UC Davis)
 
-### Program Committee
 ---
+### Program Committee
+
 
 TBD
 
-### Contact Information
 ---
+### Contact Information
 
 Please address workshop questions to Ignacio Laguna (ilaguna@llnl.gov) and/or Cindy Rubio-González (crubio@ucdavis.edu).
 
