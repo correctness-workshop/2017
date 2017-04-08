@@ -9,9 +9,9 @@ comments: false
 1st International Workshop on Software Correctness for HPC Applications
 ------
 
-## November XX, 2017
-## Denver, Colorado, USA
-#### In association with [The International Conference for High Performance Computing, Networking, Storage and Analysis](http://sc17.supercomputing.org/)
+#### November XX, 2017
+#### Denver, Colorado, USA
+##### In association with [The International Conference for High Performance Computing, Networking, Storage and Analysis (SC'17)](http://sc17.supercomputing.org/)
 
 ### Background
 ----
