@@ -4,6 +4,7 @@ title: Correctness '17
 comments: false
 ---
 
+![GitHub Logo](/img/picture.jpg)
 
 1st International Workshop on Software Correctness for HPC Applications (Correctness 2017)
 ------
