@@ -4,7 +4,7 @@ title: Correctness '17
 comments: false
 ---
 
-<img src="/img/picture.jpg" alt="Drawing" style="width: 200px;"/>
+<img src="2017-SC-Denver/img/picture.jpg" alt="Drawing" style="width: 200px;"/>
 
 1st International Workshop on Software Correctness for HPC Applications (Correctness 2017)
 ------
