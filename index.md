@@ -13,7 +13,8 @@ comments: false
 #### Denver, Colorado, USA
 ##### In association with [The International Conference for High Performance Computing, Networking, Storage and Analysis (SC'17)](http://sc17.supercomputing.org/)
 
-### Background
+
+<div>
 ----
 
 Ensuring correctness in high-performance computing (HPC) applications is one of the fundamental challenges that the HPC community faces today. While significant advances in verification, testing, and debugging have been made to isolate software errors (or defects) in the context of non-HPC software, several factors make achieving correctness in HPC applications and systems much more challenging than in general systems software—growing heterogeneity (architectures with CPUs, GPUs, and special purpose accelerators), massive scale computations (very high degree of concurrency), use of combined parallel programing models (e.g., MPI+X), new scalable numerical algorithms (e.g., to leverage reduced precision in floating-point arithmetic), and aggressive compiler optimizations/transformations are some of the challenges that makes correctness harder in HPC.
