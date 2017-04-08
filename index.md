@@ -4,7 +4,7 @@ title: Correctness '17
 comments: false
 ---
 
-![drawing](/img/picture.jpg)
+![drawing](/img/picture.jpg =100x20)
 
 1st International Workshop on Software Correctness for HPC Applications (Correctness 2017)
 ------
