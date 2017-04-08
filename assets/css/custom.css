@@ -16,7 +16,7 @@ body {
   padding-top: 70px;
   /* Margin bottom by footer height */
   margin-bottom: 80px;
-  max-width: 50%;
+  width: 50%;
 }
 .footer {
   position: absolute;
