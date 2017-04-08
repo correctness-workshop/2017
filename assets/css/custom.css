@@ -59,3 +59,5 @@ body {
 .postPreviewContent {
   
 }
+
+img[alt=drawing] { width: 200px; }
