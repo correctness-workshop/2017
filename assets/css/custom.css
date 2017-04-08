@@ -4,6 +4,10 @@ html {
   position: relative;
   min-height: 100%;
 }
+img.resize{
+    width:540px;
+    height: auto;
+}
 body {
   background-color: #fbfbfb;
   font-family: "Verdana", Arial, "Sans Serif";
@@ -58,10 +62,5 @@ body {
 }
 .postPreviewContent {
   
-}
-
-img.resize{
-    width:540px;
-    height: auto;
 }
 
