@@ -4,7 +4,7 @@ title: Correctness '17
 comments: false
 ---
 
-<img src="/img/picture.jpg" alt="Mountain View">
+<img src="/img/picture.jpg" alt="Mountain View" />
 
 
 1st International Workshop on Software Correctness for HPC Applications (Correctness 2017)
