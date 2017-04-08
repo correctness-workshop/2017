@@ -13,9 +13,10 @@ body {
   background-color: #fbfbfb;
   font-family: "Verdana", Arial, "Sans Serif";
   /* For Fixed Nav Bar */
-  padding-top: 170px;
+  padding-top: 70px;
   /* Margin bottom by footer height */
   margin-bottom: 80px;
+  max-width: 50%;
 }
 .footer {
   position: absolute;
