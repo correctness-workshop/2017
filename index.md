@@ -29,17 +29,17 @@ Topics of interest include, but are not limited to:
 
 *	Formal methods and rigorous mathematical techniques for correctness in HPC applications and systems
 *	Frameworks to address the challenges of testing complex HPC applications (e.g., multiphysics applications)
-*	Approaches for the specification of numerical algorithms with the goal of checking their correctness
-*	Techniques to identify errors in the design and implementation of numerical algorithms using finite-precision floating point numbers
-*	Static analysis and dynamic analysis to test and check correctness in the entire HPC software ecosystem
+*	Approaches for the specification of numerical algorithms with the goal of correctness checking
+*	Error identification in the design and implementation of numerical algorithms using finite-precision floating point numbers
+*	Static and dynamic analysis to test and check correctness in the entire HPC software ecosystem
 *	Practical and scalable tools for model checking, verification, certification, and symbolic execution
 *	Analysis of error propagation and error handling in HPC libraries
 *	Techniques to control the effect of non-determinism when debugging and testing HPC software
 *	Scalable debugging solutions for large-scale HPC applications
 *	Predictive debugging and testing approaches to forecast the occurrence of errors in specific conditions
 *	Machine learning and anomaly detection approaches for bug detection and localization
-*	Metrics to measure the degree of correctness of HPC applications and runtime systems
-*	Practical community-wide models to share past successes (e.g., databases for bug reports and fixes, reproducible test cases)
+*	Metrics to measure the degree of correctness of HPC applications and systems
+*	Community-wide models to share past successes (e.g., bug report databases, reproducible test cases)
 
 ----
 ### Format and Submissions
@@ -67,14 +67,14 @@ The proceedings will be archived in the ACM Digital Library and IEEE Xplore thro
 ---
 ### Organizers
 
-Ignacio Laguna (LLNL) <br />
-Cindy Rubio-González (UC Davis)
+[Ignacio Laguna](https://sites.google.com/site/researchlaguna/) (LLNL) <br />
+[Cindy Rubio-González](http://web.cs.ucdavis.edu/~rubio/) (UC Davis)
 
 ---
 ### Program Committee
 
-
 TBD
+
 
 ---
 ### Contact Information
