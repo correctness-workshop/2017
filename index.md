@@ -4,7 +4,7 @@ title: Correctness '17
 comments: false
 ---
 
-<img src="2017-SC-Denver/img/picture.jpg" alt="Drawing" style="width: 200px;"/>
+<img src="img/picture.jpg" alt="Drawing" style="width:600px;" />
 
 1st International Workshop on Software Correctness for HPC Applications (Correctness 2017)
 ------
@@ -13,7 +13,7 @@ Ensuring the correctness of high-performance computing (HPC) applications is one
 
 The goal of the workshop is to bring together researchers and developers to present and discuss novel ideas to address the problem of correctness in HPC. The workshop will feature contributed papers and invited talks in this area.
 
-<img src="img/picture.jpg" alt="Drawing" style="width:200px;" />
+
 
 ### Format and Submissions
 
