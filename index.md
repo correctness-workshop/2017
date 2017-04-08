@@ -65,7 +65,7 @@ The proceedings will be archived in the ACM Digital Library and IEEE Xplore thro
 * Workshop: SC 2017, November 2017
 
 ---
-### [Organizers](#org)
+### <a name="abcd">Organizer</a>
 
 [Ignacio Laguna](https://sites.google.com/site/researchlaguna/) (LLNL) <br />
 [Cindy Rubio-González](http://web.cs.ucdavis.edu/~rubio/) (UC Davis)
