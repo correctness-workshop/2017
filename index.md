@@ -22,7 +22,7 @@ As the complexity of future architectures, algorithms, and applications in HPC i
 The goal of the Correntness Workshop is to bring together researchers and developers to present and discuss novel ideas to address the problem of correctness in HPC. The workshop will feature contributed papers and invited talks in this area.
 
 ----
-### <a name="topics">Workshop Topics</a>
+### <a name="topics" id="test">Workshop Topics</a>
 
 Topics of interest include, but are not limited to:
 
