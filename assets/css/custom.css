@@ -5,7 +5,7 @@ html {
   min-height: 100%;
 }
 .anchor {
-  padding-top: 90px; 
+  padding-top: 50px; 
 }
 img {
   max-width: 100%;
@@ -19,9 +19,6 @@ body {
   padding-top: 70px;
   /* Margin bottom by footer height */
   margin-bottom: 80px;
-}
-.anchor {
-  padding-top: 90px; 
 }
 .footer {
   position: absolute;
