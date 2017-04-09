@@ -41,7 +41,7 @@ Topics of interest include, but are not limited to:
 *	Community-wide models to share past successes (e.g., bug report databases, reproducible test cases)
 
 ----
-### <a name="submissions"> Submissions and Format </a>
+### <a class="anchor" name="submissions"> Submissions and Format </a>
 
 Submissions are expected in the following two categories; all submissions must use the [ACM format](http://www.acm.org/sigs/publications/proceedings-templates).
 
@@ -51,12 +51,12 @@ Submissions are expected in the following two categories; all submissions must u
 Submitted papers must represent original unpublished research that is not currently under review for any other venue. Papers not following these guidelines will be rejected without review. Submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. At least one author of an accepted paper must register for and attend the workshop. Authors may contact the workshop organizers for more information. Papers should be submitted electronically in EasyChair at: [https://easychair.org/conferences/XXXX](https://easychair.org/conferences/XXXX).
 
 ---
-###  <a name="proceedings"> Proceedings </a>
+###  <a class="anchor" name="proceedings"> Proceedings </a>
 
 The proceedings will be archived in the ACM Digital Library and IEEE Xplore through SIGHPC.
 
 ---
-### <a name="dates"> Important Dates </a>
+### <a class="anchor" name="dates"> Important Dates </a>
 
 * Paper submissions open: June 2, 2017
 * Paper submissions due: August 18, 2017
@@ -65,19 +65,19 @@ The proceedings will be archived in the ACM Digital Library and IEEE Xplore thro
 * Workshop: SC 2017, November 2017
 
 ---
-### <a name="org">Organizers</a>
+### <a class="anchor" name="org">Organizers</a>
 
 [Ignacio Laguna](https://sites.google.com/site/researchlaguna/) (LLNL) <br />
 [Cindy Rubio-González](http://web.cs.ucdavis.edu/~rubio/) (UC Davis)
 
 ---
-### <a name="pc">Program Committee</a>
+### <a class="anchor" name="pc">Program Committee</a>
 
 TBD
 
 
 ---
-###  <a name="contact">Contact Information</a>
+###  <a class="anchor" name="contact">Contact Information</a>
 
 Please address workshop questions to Ignacio Laguna (ilaguna@llnl.gov) and/or Cindy Rubio-González (crubio@ucdavis.edu).
 
