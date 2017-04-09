@@ -9,8 +9,10 @@ img {
   height: auto;
   width: auto\9; /* ie8 */
 }
-#anchor {
-    padding-top: 50px;
+#topic {
+    top:-120px; /* -(some pixels above) */
+    position:relative;
+    z-index:5;
 }
 body {
   background-color: #fbfbfb;
