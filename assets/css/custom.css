@@ -9,6 +9,10 @@ img {
   height: auto;
   width: auto\9; /* ie8 */
 }
+#anchor {
+    padding-top: 50px;
+    margin-top: -50px;
+}
 body {
   background-color: #fbfbfb;
   font-family: "Verdana", Arial, "Sans Serif";
