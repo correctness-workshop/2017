@@ -43,7 +43,7 @@ Topics of interest include, but are not limited to:
 ----
 ### <a name="submissions"> Submissions and Format </a>
 
-Submissions are expected in the following two categories; all submissions must use the ACM format (see LINK):
+Submissions are expected in the following two categories; all submissions must use the [ACM format] (http://www.acm.org/sigs/publications/proceedings-templates).
 
 * **Regular papers:** maximum of 6 pages. The 6-page limit includes figures, tables and appendices, but does not include references, for which there is no page limit.
 * **Short papers:** position, opinion, or short experience papers; 4 pages maximum, including everything.
