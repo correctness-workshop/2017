@@ -9,7 +9,7 @@ img {
   height: auto;
   width: auto\9; /* ie8 */
 }
-#anchor {
+anchor {
     padding-top: 50px;
     margin-top: -50px;
 }
