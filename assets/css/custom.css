@@ -9,7 +9,7 @@ img {
   height: auto;
   width: auto\9; /* ie8 */
 }
-#topic {
+#topics {
     top:-120px; /* -(some pixels above) */
     position:relative;
     z-index:5;
