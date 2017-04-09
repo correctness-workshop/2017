@@ -9,9 +9,6 @@ img {
   height: auto;
   width: auto\9; /* ie8 */
 }
-#test {
-    padding-top: 100px;
-}
 body {
   background-color: #fbfbfb;
   font-family: "Verdana", Arial, "Sans Serif";
@@ -19,6 +16,9 @@ body {
   padding-top: 70px;
   /* Margin bottom by footer height */
   margin-bottom: 80px;
+}
+.anchor {
+  padding-top: 90px; 
 }
 .footer {
   position: absolute;
