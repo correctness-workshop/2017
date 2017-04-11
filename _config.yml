@@ -9,9 +9,9 @@ gems:
 # If you are hosting it on Github for some project with name 'projectname', then the url and baseurl should look like:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
-url: "https://correctness-workshop.github.io/2017-SC-Denver"
+url: "https://correctness-workshop.github.io/2017"
 enforce_ssl: ""
-baseurl: "/2017-SC-Denver"
+baseurl: "/2017"
 
 # Title of website
 title: Correctness '17
