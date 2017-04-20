@@ -75,8 +75,10 @@ We expect that the proceedings will be archived in the ACM Digital Library and I
 
 [Eva Darulova](https://people.mpi-sws.org/~eva/) (MPI-SWS) <br />
 [Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/) (University of Utah) <br />
+[Paul Hovland](https://www.mcs.anl.gov/person/paul-hovland) (ANL) <br />
 [Costin Iancu](https://crd.lbl.gov/departments/computer-science/CLaSS/staff/costin-iancu/) (LBNL) <br />
 [Sriram Krishnamoorthy](http://hpc.pnl.gov/people/sriram/) (PNNL) <br />
+[Richard	Lethin](http://seas.yale.edu/faculty-research/faculty-directory/richard-a-lethin) (Reservoir Labs, Yale University) <br />
 [Feng Qin](http://web.cse.ohio-state.edu/~qin.34/) (The Ohio State University) <br />
 [Nathalie Revol](http://perso.ens-lyon.fr/nathalie.revol/) (INRIA - ENS de Lyon) <br />
 [Koushik Sen](https://people.eecs.berkeley.edu/~ksen/) (UC Berkeley) <br />
