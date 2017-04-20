@@ -73,7 +73,14 @@ We expect that the proceedings will be archived in the ACM Digital Library and I
 ---
 ### <a class="anchor" name="pc">Program Committee</a>
 
-TBD
+[Eva Darulova](https://people.mpi-sws.org/~eva/) (MPI-SWS)
+[Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/) (University of Utah)
+[Costin Iancu](https://crd.lbl.gov/departments/computer-science/CLaSS/staff/costin-iancu/) (LBNL)
+[Sriram Krishnamoorthy](http://hpc.pnl.gov/people/sriram/) (PNNL)
+[Feng Qin](http://web.cse.ohio-state.edu/~qin.34/) (The Ohio State University)
+[Nathalie Revol](http://perso.ens-lyon.fr/nathalie.revol/) (INRIA - ENS de Lyon)
+[Koushik Sen](https://people.eecs.berkeley.edu/~ksen/) (UC, Berkeley)
+[Stephen Siegel](https://vsl.cis.udel.edu/siegel.html) (University of Delaware)
 
 
 ---
