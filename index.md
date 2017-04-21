@@ -67,27 +67,27 @@ We expect that the proceedings will be archived in the ACM Digital Library and I
 ---
 ### <a class="anchor" name="org">Organizers</a>
 
-[Ignacio Laguna](https://sites.google.com/site/researchlaguna/) (LLNL) <br />
-[Cindy Rubio-González](http://web.cs.ucdavis.edu/~rubio/) (UC Davis)
+[Ignacio Laguna](https://sites.google.com/site/researchlaguna/), LLNL <br />
+[Cindy Rubio-González](http://web.cs.ucdavis.edu/~rubio/), UC Davis
 
 ---
 ### <a class="anchor" name="pc">Program Committee</a>
 
-[David Abramson](https://rcc.uq.edu.au/profile/104/david-abramson) (The University of Queensland) <br />
-[Eva Darulova](https://people.mpi-sws.org/~eva/) (MPI-SWS) <br />
-[Alastair Donaldson](http://www.imperial.ac.uk/people/alastair.donaldson) (Imperial College London) <br />
-[Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/) (University of Utah) <br />
-[Paul Hovland](https://www.mcs.anl.gov/person/paul-hovland) (ANL) <br />
-[Costin Iancu](https://crd.lbl.gov/departments/computer-science/CLaSS/staff/costin-iancu/) (LBNL) <br />
-[Sriram Krishnamoorthy](http://hpc.pnl.gov/people/sriram/) (PNNL) <br />
-[David Lecomber]() (Allinea) <br />
-[Richard	Lethin](http://seas.yale.edu/faculty-research/faculty-directory/richard-a-lethin) (Reservoir Labs, Yale University) <br />
-[Matthias Müller](http://www.rwth-aachen.de/cms/root/Die-RWTH/Kontakt-Anreise/Kontakt-RWTH-Aachen/~bdfr/Mitarbeiter-CAMPUS-/?gguid=0xB8B55109186DA749BE27700404DA28D8&lidx=1&allou=1) (RWTH Aachen University) <br />
-[Feng Qin](http://web.cse.ohio-state.edu/~qin.34/) (The Ohio State University) <br />
-[Nathalie Revol](http://perso.ens-lyon.fr/nathalie.revol/) (INRIA - ENS de Lyon) <br />
-[Koushik Sen](https://people.eecs.berkeley.edu/~ksen/) (UC Berkeley) <br />
-[Stephen Siegel](https://vsl.cis.udel.edu/siegel.html) (University of Delaware) <br />
-[Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) (MIT)
+[David Abramson](https://rcc.uq.edu.au/profile/104/david-abramson), The University of Queensland, Australia <br />
+[Eva Darulova](https://people.mpi-sws.org/~eva/), MPI-SWS, Germany  <br />
+[Alastair Donaldson](http://www.imperial.ac.uk/people/alastair.donaldson), Imperial College London, UK <br />
+[Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/), University of Utah, USA <br />
+[Paul Hovland](https://www.mcs.anl.gov/person/paul-hovland), ANL, USA <br />
+[Costin Iancu](https://crd.lbl.gov/departments/computer-science/CLaSS/staff/costin-iancu/), LBNL, USA <br />
+[Sriram Krishnamoorthy](http://hpc.pnl.gov/people/sriram/), PNNL, USA <br />
+[David Lecomber]() Allinea/ARM, UK <br />
+[Richard	Lethin](http://seas.yale.edu/faculty-research/faculty-directory/richard-a-lethin), Reservoir Labs, Yale University, USA <br />
+[Matthias Müller](http://www.rwth-aachen.de/cms/root/Die-RWTH/Kontakt-Anreise/Kontakt-RWTH-Aachen/~bdfr/Mitarbeiter-CAMPUS-/?gguid=0xB8B55109186DA749BE27700404DA28D8&lidx=1&allou=1), RWTH Aachen University, Germany <br />
+[Feng Qin](http://web.cse.ohio-state.edu/~qin.34/), The Ohio State University, USA <br />
+[Nathalie Revol](http://perso.ens-lyon.fr/nathalie.revol/), INRIA - ENS de Lyon, France  <br />
+[Koushik Sen](https://people.eecs.berkeley.edu/~ksen/), UC Berkeley, USA <br />
+[Stephen Siegel](https://vsl.cis.udel.edu/siegel.html), University of Delaware, USA <br />
+[Armando Solar-Lezama](https://people.csail.mit.edu/asolar/), MIT, USA
 
 
 ---
