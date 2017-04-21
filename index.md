@@ -79,10 +79,12 @@ We expect that the proceedings will be archived in the ACM Digital Library and I
 [Costin Iancu](https://crd.lbl.gov/departments/computer-science/CLaSS/staff/costin-iancu/) (LBNL) <br />
 [Sriram Krishnamoorthy](http://hpc.pnl.gov/people/sriram/) (PNNL) <br />
 [Richard	Lethin](http://seas.yale.edu/faculty-research/faculty-directory/richard-a-lethin) (Reservoir Labs, Yale University) <br />
+[Matthias Müller](http://www.rwth-aachen.de/cms/root/Die-RWTH/Kontakt-Anreise/Kontakt-RWTH-Aachen/~bdfr/Mitarbeiter-CAMPUS-/?gguid=0xB8B55109186DA749BE27700404DA28D8&lidx=1&allou=1) (RWTH Aachen University) <br />
 [Feng Qin](http://web.cse.ohio-state.edu/~qin.34/) (The Ohio State University) <br />
 [Nathalie Revol](http://perso.ens-lyon.fr/nathalie.revol/) (INRIA - ENS de Lyon) <br />
 [Koushik Sen](https://people.eecs.berkeley.edu/~ksen/) (UC Berkeley) <br />
-[Stephen Siegel](https://vsl.cis.udel.edu/siegel.html) (University of Delaware)
+[Stephen Siegel](https://vsl.cis.udel.edu/siegel.html) (University of Delaware) <br />
+[Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) (MIT)
 
 
 ---
