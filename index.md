@@ -9,7 +9,7 @@ comments: false
 1st International Workshop on Software Correctness for HPC Applications
 ------
 
-#### November XX, 2017
+#### November 12, 2017
 #### Denver, Colorado, USA
 ##### In association with [The International Conference for High Performance Computing, Networking, Storage and Analysis (SC17)](http://sc17.supercomputing.org/)
 
@@ -62,7 +62,7 @@ We expect that the proceedings will be archived in the ACM Digital Library and I
 * Paper submissions due: August 18, 2017
 * Notification of acceptance: September 15, 2017
 * Camera-ready papers due (firm): October 6, 2017
-* Workshop: SC 2017, November 2017
+* Workshop: SC 2017, Sun, Nov 12 (at 9am-12:30pm), 2017
 
 ---
 ### <a class="anchor" name="org">Organizers</a>
