@@ -54,7 +54,7 @@ Submitted papers must represent original unpublished research that is not curren
 ---
 ###  <a class="anchor" name="proceedings"> Proceedings </a>
 
-The proceedings will be archived in both the ACM Digital Library and IEEE Xplore through SIGHPC.
+The proceedings will be archived in both the ACM Digital Library and IEEE Xplore through [SIGHPC](http://www.sighpc.org).
 
 ---
 ### <a class="anchor" name="dates"> Important Dates </a>
