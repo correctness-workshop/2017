@@ -49,7 +49,7 @@ Submissions are expected in the following two categories; all submissions must u
 * **Regular papers:** maximum of 6 pages. The 6-page limit includes figures, tables and appendices, but does not include references, for which there is no page limit.
 * **Short papers:** position, opinion, or short experience papers; 4 pages maximum, including everything.
 
-Submitted papers must represent original unpublished research that is not currently under review for any other venue. Papers not following these guidelines will be rejected without review. Submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. At least one author of an accepted paper must register for and attend the workshop. Authors may contact the workshop organizers for more information. Papers should be submitted electronically in EasyChair at: [https://easychair.org/conferences/XXXX](https://easychair.org/conferences/XXXX).
+Submitted papers must represent original unpublished research that is not currently under review for any other venue. Papers not following these guidelines will be rejected without review. Submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. At least one author of an accepted paper must register for and attend the workshop. Authors may contact the workshop organizers for more information. Papers should be submitted electronically in EasyChair at: [https://easychair.org/conferences/?conf=correctness2017](https://easychair.org/conferences/?conf=correctness2017).
 
 ---
 ###  <a class="anchor" name="proceedings"> Proceedings </a>
