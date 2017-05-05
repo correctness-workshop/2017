@@ -12,7 +12,7 @@ Correctness 2017: First International Workshop on Software Correctness for HPC A
 #### November 12, 2017
 #### Denver, Colorado, USA
 ##### Held in conjunction with SC17: [The International Conference for High Performance Computing, Networking, Storage and Analysis (SC17)](http://sc17.supercomputing.org/)
-##### In cooperation with ![SIGHPC](/img/SIGhpc_logo.png)
+##### In cooperation with <img src="/img/SIGhpc_logo.png" style="width:100px;" />
 
 ----
 
