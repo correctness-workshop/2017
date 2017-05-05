@@ -6,7 +6,7 @@ comments: false
 
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
-Correctness 2017: First International Workshop on Software Correctness for HPC Applications
+<center><h1>Correctness 2017: First International Workshop on Software Correctness for HPC Applications</h1></center>
 ------
 
 
