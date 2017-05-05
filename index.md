@@ -6,6 +6,7 @@ comments: false
 
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
+<!---
 Correctness 2017: First International Workshop on Software Correctness for HPC Applications
 ------
 
@@ -13,6 +14,7 @@ Correctness 2017: First International Workshop on Software Correctness for HPC A
 #### Denver, Colorado, USA
 ##### Held in conjunction with SC17: [The International Conference for High Performance Computing, Networking, Storage and Analysis](http://sc17.supercomputing.org/)
 ##### In cooperation with [![SIGHPC](/img/SIGhpc_logo_small.png)](http://www.sighpc.org)
+-->
 
 <center><h2>Correctness 2017: First International Workshop on Software Correctness for HPC Applications</h2></center>
 <center><h4> November 12, 2017 </h4></center>
