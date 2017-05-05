@@ -6,10 +6,9 @@ comments: false
 
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
-<center>
-Correctness 2017: First International Workshop on Software Correctness for HPC Applications
+<center> Correctness 2017: First International Workshop on Software Correctness for HPC Applications </center>
 ------
-</center>
+
 
 #### November 12, 2017
 #### Denver, Colorado, USA <br />
