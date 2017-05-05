@@ -21,7 +21,7 @@ Correctness 2017: First International Workshop on Software Correctness for HPC A
 <center>
 In cooperation with <br />
 <a href="http://www.sighpc.org">
-  <img src="/img/SIGhpc_logo_small.png" alt="SIGHPC">
+  <img src="img/SIGhpc_logo_small.png" alt="SIGHPC">
 </a>
 </center>
 
