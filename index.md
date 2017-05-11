@@ -58,10 +58,14 @@ Topics of interest include, but are not limited to:
 ----
 ### <a class="anchor" name="submissions"> Submissions and Format </a>
 
+Authors are invited to submit manuscripts in English structured as technical or experience papers not exceeding **6 pages** of technical content. The 6-page limit includes figures, tables and appendices, but does not include references, for which there is no page limit. Submissions must use the [ACM format](http://www.acm.org/sigs/publications/proceedings-templates).
+
+<!---
 Submissions are expected in the following two categories; all submissions must use the [ACM format](http://www.acm.org/sigs/publications/proceedings-templates).
 
 * **Regular papers:** maximum of 6 pages. The 6-page limit includes figures, tables and appendices, but does not include references, for which there is no page limit.
 * **Short papers:** position, opinion, or short experience papers; 4 pages maximum, including everything.
+-->
 
 Submitted papers must represent original unpublished research that is not currently under review for any other venue. Papers not following these guidelines will be rejected without review. Submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. At least one author of an accepted paper must register for and attend the workshop. Authors may contact the workshop organizers for more information. Papers should be submitted electronically in EasyChair at: [https://easychair.org/conferences/?conf=correctness2017](https://easychair.org/conferences/?conf=correctness2017).
 
