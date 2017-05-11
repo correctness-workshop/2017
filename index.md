@@ -46,7 +46,7 @@ Topics of interest include, but are not limited to:
 *	Approaches for the specification of numerical algorithms with the goal of correctness checking
 *	Error identification in the design and implementation of numerical algorithms using finite-precision floating point numbers
 *	Static and dynamic analysis to test and check correctness in the entire HPC software ecosystem
-*	Practical and scalable tools for model checking, verification, certification, and symbolic execution
+*	Practical and scalable tools for model checking, verification, certification, or symbolic execution
 *	Analysis of error propagation and error handling in HPC libraries
 *	Techniques to control the effect of non-determinism when debugging and testing HPC software
 *	Scalable debugging solutions for large-scale HPC applications
