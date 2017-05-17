@@ -101,7 +101,7 @@ The proceedings will be archived in both the ACM Digital Library and IEEE Xplore
 [Paul Hovland](https://www.mcs.anl.gov/person/paul-hovland), ANL, USA <br />
 [Costin Iancu](https://crd.lbl.gov/departments/computer-science/CLaSS/staff/costin-iancu/), LBNL, USA <br />
 [Sriram Krishnamoorthy](http://hpc.pnl.gov/people/sriram/), PNNL, USA <br />
-[David Lecomber]() Allinea/ARM, UK <br />
+[David Lecomber](), Allinea/ARM, UK <br />
 [Richard	Lethin](http://seas.yale.edu/faculty-research/faculty-directory/richard-a-lethin), Reservoir Labs, Yale University, USA <br />
 [Matthias Müller](http://www.rwth-aachen.de/cms/root/Die-RWTH/Kontakt-Anreise/Kontakt-RWTH-Aachen/~bdfr/Mitarbeiter-CAMPUS-/?gguid=0xB8B55109186DA749BE27700404DA28D8&lidx=1&allou=1), RWTH Aachen University, Germany <br />
 [Feng Qin](http://web.cse.ohio-state.edu/~qin.34/), The Ohio State University, USA <br />
