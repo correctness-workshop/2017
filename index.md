@@ -80,8 +80,8 @@ The proceedings will be archived in both the ACM Digital Library and IEEE Xplore
 <!---
 * Paper submissions open: June 2, 2017
 -->
-* Paper submissions due: August 18, 2017
-* Notification of acceptance: September 15, 2017
+* Paper submissions due: ~~August 18, 2017~~ August 25, 2017
+* Notification of acceptance: ~~September 15, 2017~~ September 18, 2017
 * Camera-ready papers due (firm): October 6, 2017
 * Workshop: SC 2017, Sun, Nov 12 (at 9am-12:30pm), 2017
 
