@@ -114,7 +114,8 @@ The proceedings will be archived in both the ACM Digital Library and IEEE Xplore
 ---
 ### <a class="anchor" name="program">Program</a>
 
-#### Keynote Address: [Stephen Siegel](http://vsl.cis.udel.edu/siegel.html) (University of Delaware)
+#### Keynote Address
+We are glad to announce that [Stephen Siegel](http://vsl.cis.udel.edu/siegel.html), Associate Professor in the Department of Computer and Information Sciences at the University of Delaware, will deliver the keynote address at Correctness 2017!
 
 Papers schedule: TBD
 
