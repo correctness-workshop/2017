@@ -116,6 +116,9 @@ The proceedings will be archived in both the ACM Digital Library and IEEE Xplore
 
 #### Keynote Address
 
+##### [Stephen Siegel](http://vsl.cis.udel.edu/siegel.html)
+
+
 ---
 ###  <a class="anchor" name="contact">Contact Information</a>
 
