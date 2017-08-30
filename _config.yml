@@ -31,7 +31,7 @@ avatar: "/img/picture.jpg"
 # List of links in the navigation bar
 nav-links:
   Topics: "#topics"
-  Program: ""
+  Program: "#program"
   Submissions: "#submissions"
   Dates: "#dates"
   Organization: "#org"
