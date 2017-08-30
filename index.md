@@ -114,7 +114,7 @@ The proceedings will be archived in both the ACM Digital Library and IEEE Xplore
 ---
 ### <a class="anchor" name="program">Program</a>
 
-#### Keynote Address: [Stephen Siegel](http://vsl.cis.udel.edu/siegel.html)
+#### Keynote Address: [Stephen Siegel](http://vsl.cis.udel.edu/siegel.html) (University of Delaware)
 
 Papers schedule: TBD
 
