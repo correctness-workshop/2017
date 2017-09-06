@@ -120,7 +120,7 @@ The proceedings will be archived in both the ACM Digital Library and IEEE Xplore
 
 <table cellspacing="25">
 <tr> <td valign="top"> <img src="img/SiegelJG.png" alt="Stephen-Siegel" style="width:1800px;" /> </td>
-<td> </td>
+<td> Bio </td>
 <td> Stephen Siegel is an Associate Professor in the Department of Computer and Information Sciences and the Department of Mathematical Sciences at the University of Delaware. He received the Ph.D. in mathematics from the University of Chicago in 1993.  As a working mathematician, first at Northwestern University and then at the University of Massachusetts Amherst, he worked in the areas of finite group theory, and the representation theory and cohomology of finite groups.  Much of his work focused on computational issues in those fields.  At UMass, his interests veered towards software engineering, and he worked as a software engineer and then research scientist in the Laboratory for Advanced Software Engineering Research, focusing in particular on formal verification of concurrent systems.  He joined the University of Delaware in 2006 and started the Verified Software Laboratory (VSL), which researches new techniques for verifying and debugging parallel programs, especially programs used for computational science. The VSL has produced the symbolic execution and model checking platform CIVL, among other tools. </td> </tr>
 </table> <br />
 
