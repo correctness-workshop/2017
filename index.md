@@ -130,27 +130,27 @@ The proceedings will be archived in both the ACM Digital Library and IEEE Xplore
 We are glad to announce that [Stephen F. Siegel](http://vsl.cis.udel.edu/siegel.html), Associate Professor in the Department of Computer and Information Sciences at the University of Delaware, will deliver the keynote address at Correctness 2017!
 -->
 
-##### Schedule
+#### Schedule
 
 ###### Opening
-09:00 - 09:10 Opening Remarks	
-09:10 - 10:00 Keynote Speech: Stephen Siegel
+09:00 - 09:10 Opening Remarks	<br />
+09:10 - 10:00 Keynote Speech: Stephen Siegel <br />
 
 ###### Break
-10:00 - 10:30 Break (coffee provided by SC17)
+10:00 - 10:30 Break (coffee provided by SC17) <br />
 
 ###### Runtime Systems Correctness
-10:30 - 10:47 Paper 1
-10:47 - 11:04 Paper 2
+10:30 - 10:47 **"Verifying MPI applications with SimGridMC	The Anh Pham"**, Thierry Jéron and Martin Quinson <br />
+10:47 - 11:04 **"Runtime Correctness Checking for Emerging Programming Paradigms"**, Joachim Protze, Christian Terboven, Matthias S. Mueller, Serge Petiton, Nahid Emad, Hitoshi Murai and Taisuke Boku <br />
 
 ###### Applications & Algorithms Correctness
-11:04 - 11:21 Paper 3
-11:21 - 11:38 Paper 4
-11:38 - 11:55 Paper 5
+11:04 - 11:21 Paper 3 <br />
+11:21 - 11:38 Paper 4 <br />
+11:38 - 11:55 Paper 5 <br />
 
 ###### Code Generation & Code Equivalence Correctness
-11:55 - 12:12 Paper 6
-12:12 - 12:29 Paper 7
+11:55 - 12:12 Paper 6 <br />
+12:12 - 12:29 Paper 7 <br />
 
 ---
 ###  <a class="anchor" name="contact">Contact Information</a>
