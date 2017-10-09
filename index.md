@@ -134,8 +134,8 @@ We are glad to announce that [Stephen F. Siegel](http://vsl.cis.udel.edu/siegel.
 
 ###### Opening
 <table>
-<tr><td width="10">  </td> <td>09:00 - 09:10:  Opening Remarks	</td> </tr>
-<tr><td width="10">  </td> <td>09:10 - 10:00:  Keynote Speech: Stephen Siegel </td> </tr>
+<tr><td width="10">  </td> <td>09:00 - 09:10:  Opening remarks	</td> </tr>
+<tr><td width="10">  </td> <td>09:10 - 10:00:  Keynote speech: Stephen Siegel </td> </tr>
 </table>
 
 ###### Break
