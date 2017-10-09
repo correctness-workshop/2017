@@ -133,15 +133,15 @@ We are glad to announce that [Stephen F. Siegel](http://vsl.cis.udel.edu/siegel.
 #### Schedule
 
 ###### Opening
-09:00 - 09:10 Opening Remarks	<br />
-09:10 - 10:00 Keynote Speech: Stephen Siegel <br />
+{nbsp} + 09:00 - 09:10:  Opening Remarks	<br />
+{nbsp} + 09:10 - 10:00:  Keynote Speech: Stephen Siegel <br />
 
 ###### Break
-10:00 - 10:30 Break (coffee provided by SC17) <br />
+10:00 - 10:30:  Break (coffee provided by SC17) <br />
 
 ###### Runtime Systems Correctness
-10:30 - 10:47 **"Verifying MPI applications with SimGridMC	The Anh Pham"**, Thierry Jéron and Martin Quinson <br />
-10:47 - 11:04 **"Runtime Correctness Checking for Emerging Programming Paradigms"**, Joachim Protze, Christian Terboven, Matthias S. Mueller, Serge Petiton, Nahid Emad, Hitoshi Murai and Taisuke Boku <br />
+10:30 - 10:47:  **"Verifying MPI applications with SimGridMC	The Anh Pham"**, Thierry Jéron and Martin Quinson <br />
+10:47 - 11:04:  **"Runtime Correctness Checking for Emerging Programming Paradigms"**, Joachim Protze, Christian Terboven, Matthias S. M\"ueller, Serge Petiton, Nahid Emad, Hitoshi Murai and Taisuke Boku <br />
 
 ###### Applications & Algorithms Correctness
 11:04 - 11:21 Paper 3 <br />
