@@ -145,8 +145,8 @@ We are glad to announce that [Stephen F. Siegel](http://vsl.cis.udel.edu/siegel.
 
 ###### Runtime Systems Correctness
 <table>
-<tr><td width="10">  </td> <td>10:30 - 10:47:  **"Verifying MPI applications with SimGridMC"**, The Anh Pham, Thierry Jéron and Martin Quinson </td> </tr>
-<tr><td width="10">  </td> <td>10:47 - 11:04:  **"Runtime Correctness Checking for Emerging Programming Paradigms"**, Joachim Protze, Christian Terboven, Matthias S. Müeller, Serge Petiton, Nahid Emad, Hitoshi Murai and Taisuke Boku </td> </tr>
+<tr><td width="10">  </td> <td>10:30 - 10:47:  <b>"Verifying MPI applications with SimGridMC"</b>, The Anh Pham, Thierry Jéron and Martin Quinson </td> </tr>
+<tr><td width="10">  </td> <td>10:47 - 11:04:  <b>"Runtime Correctness Checking for Emerging Programming Paradigms"</b>, Joachim Protze, Christian Terboven, Matthias S. Müeller, Serge Petiton, Nahid Emad, Hitoshi Murai and Taisuke Boku </td> </tr>
 </table>
 
 ###### Applications & Algorithms Correctness
