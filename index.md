@@ -133,8 +133,10 @@ We are glad to announce that [Stephen F. Siegel](http://vsl.cis.udel.edu/siegel.
 #### Schedule
 
 ###### Opening
-09:00 - 09:10:  Opening Remarks	<br />
-09:10 - 10:00:  Keynote Speech: Stephen Siegel <br />
+<table>
+<tr><td width="3%">  </td> <td>09:00 - 09:10:  Opening Remarks	</td> </tr>
+<tr><td width="3%">  </td> <td>09:10 - 10:00:  Keynote Speech: Stephen Siegel </td> </tr>
+</table>
 
 ###### Break
 10:00 - 10:30:  Break (coffee provided by SC17) <br />
