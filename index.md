@@ -133,24 +133,24 @@ We are glad to announce that [Stephen F. Siegel](http://vsl.cis.udel.edu/siegel.
 #### Schedule
 
 ###### Opening
-{nbsp} + 09:00 - 09:10:  Opening Remarks	<br />
-{nbsp} + 09:10 - 10:00:  Keynote Speech: Stephen Siegel <br />
+09:00 - 09:10:  Opening Remarks	<br />
+09:10 - 10:00:  Keynote Speech: Stephen Siegel <br />
 
 ###### Break
 10:00 - 10:30:  Break (coffee provided by SC17) <br />
 
 ###### Runtime Systems Correctness
 10:30 - 10:47:  **"Verifying MPI applications with SimGridMC	The Anh Pham"**, Thierry Jéron and Martin Quinson <br />
-10:47 - 11:04:  **"Runtime Correctness Checking for Emerging Programming Paradigms"**, Joachim Protze, Christian Terboven, Matthias S. M\"ueller, Serge Petiton, Nahid Emad, Hitoshi Murai and Taisuke Boku <br />
+10:47 - 11:04:  **"Runtime Correctness Checking for Emerging Programming Paradigms"**, Joachim Protze, Christian Terboven, Matthias S. Müeller, Serge Petiton, Nahid Emad, Hitoshi Murai and Taisuke Boku <br />
 
 ###### Applications & Algorithms Correctness
-11:04 - 11:21 Paper 3 <br />
-11:21 - 11:38 Paper 4 <br />
-11:38 - 11:55 Paper 5 <br />
+11:04 - 11:21:  **"Verifying Concurrency in an Adaptive Ocean Circulation Model"**, Alper Altuntas and John Baugh <br />
+11:21 - 11:38:  **"Quality assurance and error identification for the Community Earth System Model"**, Allison Baker, Daniel Milroy, Dorit Hammerling and Haiying Xu <br />
+11:38 - 11:55:  **"A Family of Provably Correct Algorithms for Exact Triangle Counting"**, Matthew Lee and Tze Meng Low <br />
 
 ###### Code Generation & Code Equivalence Correctness
-11:55 - 12:12 Paper 6 <br />
-12:12 - 12:29 Paper 7 <br />
+11:55 - 12:12:  **"Verifying the Floating-Point Computation Equivalence of Manually and Automatically Differentiated Code"**, Markus Schordan, Jan Hückelheim, Pei-Hung Lin and Harshitha Gopalakrishnan<br />
+12:12 - 12:29:  **"Towards Self-Verification in Finite Difference Code Generation"**, Jan Hueckelheim, Ziqing Luo, Fabio Luporini, Navjot Kukreja, Michael Lange, Gerard Gorman, Stephen Siegel, Matthew Dwyer and Paul Hovland <br />
 
 ---
 ###  <a class="anchor" name="contact">Contact Information</a>
