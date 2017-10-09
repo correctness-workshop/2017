@@ -151,15 +151,15 @@ We are glad to announce that [Stephen F. Siegel](http://vsl.cis.udel.edu/siegel.
 
 ###### Applications & Algorithms Correctness
 <table>
-<tr><td width="10">  </td> <td>11:04 - 11:21:  **"Verifying Concurrency in an Adaptive Ocean Circulation Model"**, Alper Altuntas and John Baugh </td> </tr>
-<tr><td width="10">  </td> <td>11:21 - 11:38:  **"Quality assurance and error identification for the Community Earth System Model"**, Allison Baker, Daniel Milroy, Dorit Hammerling and Haiying Xu </td> </tr>
-<tr><td width="10">  </td> <td>11:38 - 11:55:  **"A Family of Provably Correct Algorithms for Exact Triangle Counting"**, Matthew Lee and Tze Meng Low </td> </tr>
+<tr><td width="10">  </td> <td>11:04 - 11:21:  <b>"Verifying Concurrency in an Adaptive Ocean Circulation Model"</b>, Alper Altuntas and John Baugh </td> </tr>
+<tr><td width="10">  </td> <td>11:21 - 11:38:  <b>"Quality assurance and error identification for the Community Earth System Model"</b>, Allison Baker, Daniel Milroy, Dorit Hammerling and Haiying Xu </td> </tr>
+<tr><td width="10">  </td> <td>11:38 - 11:55:  <b>"A Family of Provably Correct Algorithms for Exact Triangle Counting"</b>, Matthew Lee and Tze Meng Low </td> </tr>
 </table>
 
 ###### Code Generation & Code Equivalence Correctness
 <table>
-<tr><td width="10">  </td> <td>11:55 - 12:12:  **"Verifying the Floating-Point Computation Equivalence of Manually and Automatically Differentiated Code"**, Markus Schordan, Jan Hückelheim, Pei-Hung Lin and Harshitha Gopalakrishnan </td> </tr>
-<tr><td width="10">  </td> <td>12:12 - 12:29:  **"Towards Self-Verification in Finite Difference Code Generation"**, Jan Hueckelheim, Ziqing Luo, Fabio Luporini, Navjot Kukreja, Michael Lange, Gerard Gorman, Stephen Siegel, Matthew Dwyer and Paul Hovland </td> </tr>
+<tr><td width="10">  </td> <td>11:55 - 12:12:  <b>"Verifying the Floating-Point Computation Equivalence of Manually and Automatically Differentiated Code"</b>, Markus Schordan, Jan Hückelheim, Pei-Hung Lin and Harshitha Gopalakrishnan </td> </tr>
+<tr><td width="10">  </td> <td>12:12 - 12:29:  <b>"Towards Self-Verification in Finite Difference Code Generation"</b>, Jan Hueckelheim, Ziqing Luo, Fabio Luporini, Navjot Kukreja, Michael Lange, Gerard Gorman, Stephen Siegel, Matthew Dwyer and Paul Hovland </td> </tr>
 </table>
 
 ---
