@@ -131,7 +131,7 @@ We are glad to announce that [Stephen F. Siegel](http://vsl.cis.udel.edu/siegel.
 -->
 
 #### Schedule
-<font color="FF0000"> Preliminary </font>
+<font color="FF0000"> Preliminary only </font>
 
 ###### Opening
 <table>
