@@ -135,32 +135,32 @@ We are glad to announce that [Stephen F. Siegel](http://vsl.cis.udel.edu/siegel.
 
 ###### Opening
 <table>
-<tr><td width="10">  </td> <td>09:00 - 09:10:  Opening remarks	</td> </tr>
-<tr><td width="10">  </td> <td>09:10 - 10:00:  Keynote speech: Stephen Siegel </td> </tr>
+<tr><td width="15">  </td> <td>09:00 - 09:10:  Opening remarks	</td> </tr>
+<tr><td width="15">  </td> <td>09:10 - 10:00:  Keynote speech: <b>Stephen Siegel</b> </td> </tr>
 </table>
 
 ###### Break
 <table>
-<tr><td width="10">  </td> <td>10:00 - 10:30:  Break (coffee provided by SC17) </td> </tr>
+<tr><td width="15">  </td> <td>10:00 - 10:30:  Break (coffee provided by SC17) </td> </tr>
 </table>
 
 ###### Runtime Systems Correctness
 <table>
-<tr><td width="10">  </td> <td>10:30 - 10:47:  <b>"Verifying MPI applications with SimGridMC"</b>, The Anh Pham, Thierry Jéron and Martin Quinson </td> </tr>
-<tr><td width="10">  </td> <td>10:47 - 11:04:  <b>"Runtime Correctness Checking for Emerging Programming Paradigms"</b>, Joachim Protze, Christian Terboven, Matthias S. Müeller, Serge Petiton, Nahid Emad, Hitoshi Murai and Taisuke Boku </td> </tr>
+<tr><td width="15">  </td> <td>10:30 - 10:47:  <b>"Verifying MPI applications with SimGridMC"</b>, The Anh Pham, Thierry Jéron and Martin Quinson </td> </tr>
+<tr><td width="15">  </td> <td>10:47 - 11:04:  <b>"Runtime Correctness Checking for Emerging Programming Paradigms"</b>, Joachim Protze, Christian Terboven, Matthias S. Müeller, Serge Petiton, Nahid Emad, Hitoshi Murai and Taisuke Boku </td> </tr>
 </table>
 
 ###### Applications & Algorithms Correctness
 <table>
-<tr><td width="10">  </td> <td>11:04 - 11:21:  <b>"Verifying Concurrency in an Adaptive Ocean Circulation Model"</b>, Alper Altuntas and John Baugh </td> </tr>
-<tr><td width="10">  </td> <td>11:21 - 11:38:  <b>"Quality assurance and error identification for the Community Earth System Model"</b>, Allison Baker, Daniel Milroy, Dorit Hammerling and Haiying Xu </td> </tr>
-<tr><td width="10">  </td> <td>11:38 - 11:55:  <b>"A Family of Provably Correct Algorithms for Exact Triangle Counting"</b>, Matthew Lee and Tze Meng Low </td> </tr>
+<tr><td width="15">  </td> <td>11:04 - 11:21:  <b>"Verifying Concurrency in an Adaptive Ocean Circulation Model"</b>, Alper Altuntas and John Baugh </td> </tr>
+<tr><td width="15">  </td> <td>11:21 - 11:38:  <b>"Quality assurance and error identification for the Community Earth System Model"</b>, Allison Baker, Daniel Milroy, Dorit Hammerling and Haiying Xu </td> </tr>
+<tr><td width="15">  </td> <td>11:38 - 11:55:  <b>"A Family of Provably Correct Algorithms for Exact Triangle Counting"</b>, Matthew Lee and Tze Meng Low </td> </tr>
 </table>
 
 ###### Code Generation & Code Equivalence Correctness
 <table>
-<tr><td width="10">  </td> <td>11:55 - 12:12:  <b>"Verifying the Floating-Point Computation Equivalence of Manually and Automatically Differentiated Code"</b>, Markus Schordan, Jan Hückelheim, Pei-Hung Lin and Harshitha Gopalakrishnan </td> </tr>
-<tr><td width="10">  </td> <td>12:12 - 12:29:  <b>"Towards Self-Verification in Finite Difference Code Generation"</b>, Jan Hückelheim, Ziqing Luo, Fabio Luporini, Navjot Kukreja, Michael Lange, Gerard Gorman, Stephen Siegel, Matthew Dwyer and Paul Hovland </td> </tr>
+<tr><td width="15">  </td> <td>11:55 - 12:12:  <b>"Verifying the Floating-Point Computation Equivalence of Manually and Automatically Differentiated Code"</b>, Markus Schordan, Jan Hückelheim, Pei-Hung Lin and Harshitha Gopalakrishnan </td> </tr>
+<tr><td width="15">  </td> <td>12:12 - 12:29:  <b>"Towards Self-Verification in Finite Difference Code Generation"</b>, Jan Hückelheim, Ziqing Luo, Fabio Luporini, Navjot Kukreja, Michael Lange, Gerard Gorman, Stephen Siegel, Matthew Dwyer and Paul Hovland </td> </tr>
 </table>
 
 ---
