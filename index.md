@@ -131,12 +131,14 @@ We are glad to announce that [Stephen F. Siegel](http://vsl.cis.udel.edu/siegel.
 -->
 
 #### Schedule
+<!---
 <font color="FF0000"> Preliminary only </font>
+-->
 
 ###### Opening
 <table>
 <tr><td width="15">  </td> <td>09:00 - 09:10:  Opening remarks	</td> </tr>
-<tr><td width="15">  </td> <td>09:10 - 10:00:  Keynote speech: <b>Stephen Siegel</b> </td> </tr>
+<tr><td width="15">  </td> <td>09:10 - 10:00:  Keynote speech: <b>A Verification Language for High Performance Computing</b>, Stephen Siegel </td> </tr>
 </table>
 
 ###### Break
