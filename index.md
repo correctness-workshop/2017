@@ -19,6 +19,7 @@ Correctness 2017: First International Workshop on Software Correctness for HPC A
 
 <center><h2>Correctness 2017: First International Workshop on Software Correctness for HPC Applications</h2></center>
 <center><h4> November 12, 2017 </h4></center>
+<center><h4> Colorado Convention Center, <font color="0000FF">Room 501</font> </h4></center>
 <center><h4> Denver, Colorado, USA </h4></center>
 <center><h5> Held in conjunction with SC17: <a href="http://sc17.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
 <center>
