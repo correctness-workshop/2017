@@ -85,7 +85,7 @@ The proceedings will be archived in both the ACM Digital Library and IEEE Xplore
 * Paper submissions due: ~~August 18, 2017~~ ~~**Extended:** August 25, 2017~~ Last extendend deadline: August 28, 2017, 12pm PST
 * Notification of acceptance: ~~September 15, 2017~~ September 18, 2017
 * Camera-ready papers due (firm): October 6, 2017
-* Workshop: SC 2017, Sun, Nov 12 (at 9am-12:30pm), 2017
+* Workshop: SC 2017, Colorado Convention Center (Room 501), Sun, Nov 12 (at 9am-12:30pm), 2017
 
 ---
 ### <a class="anchor" name="org">Organizers</a>
