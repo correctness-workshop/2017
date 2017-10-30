@@ -116,8 +116,8 @@ The proceedings will be archived in both the ACM Digital Library and IEEE Xplore
 ---
 ### <a class="anchor" name="venue">Venue</a>
 
-Colorado Convention Center
-700 14th St, Denver, CO 80202
+Colorado Convention Center <br />
+700 14th St, Denver, CO 80202 <br />
 <font color="0000FF">Room 501</font>
 
 ---
