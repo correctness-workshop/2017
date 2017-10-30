@@ -113,6 +113,12 @@ The proceedings will be archived in both the ACM Digital Library and IEEE Xplore
 [Stephen Siegel](https://vsl.cis.udel.edu/siegel.html), University of Delaware, USA <br />
 [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/), MIT, USA
 
+---
+### <a class="anchor" name="venue">Venue</a>
+
+Colorado Convention Center
+700 14th St, Denver, CO 80202
+<font color="0000FF">Room 501</font>
 
 ---
 ### <a class="anchor" name="program">Program</a>
