@@ -156,7 +156,7 @@ We are glad to announce that [Stephen F. Siegel](http://vsl.cis.udel.edu/siegel.
 
 ###### Applications & Algorithms Correctness
 <table>
-<tr><td width="15">  </td> <td>10:30 - 10:47:  <b>"Verifying Concurrency in an Adaptive Ocean Circulation Model"</b>, Alper Altuntas and John Baugh </td> </tr>
+<tr><td width="15">  </td> <td>10:30 - 10:47:  <b>"Verifying Concurrency in an Adaptive Ocean Circulation Model"</b>, Alper Altuntas and John Baugh [slides](papers/altunas.pdf) </td> </tr>
 <tr><td width="15">  </td> <td>10:47 - 11:04:  <b>"Quality Assurance and Error Identification for the Community Earth System Model"</b>, Allison Baker, Daniel Milroy, Dorit Hammerling and Haiying Xu </td> </tr>
 <tr><td width="15">  </td> <td>11:04 - 11:21:  <b>"A Family of Provably Correct Algorithms for Exact Triangle Counting"</b>, Matthew Lee and Tze Meng Low </td> </tr>
 </table>
